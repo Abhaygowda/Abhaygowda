@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhaygowda
 - 👀 I’m interested in ...coading
-- 🌱 I’m currently learning ...Phyton HTML
+- 🌱 I’m currently learning ...Phyton Web Develepment
 - 💞️ I’m looking to collaborate on ...Web development 
 - 📫 How to reach me ...abhaygowdamd3@gmail.com
 
